@@ -1,0 +1,14 @@
+*{
+    border: 0px solid;
+    font-family: 'Poppins', sans-serif;
+}   
+
+.copyright a{
+    text-decoration: none;
+    color: #896bab;
+}
+
+.copyright a:hover{
+    text-decoration: none;
+    color: #f5f5f5;
+}
